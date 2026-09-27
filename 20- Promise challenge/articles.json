@@ -1,0 +1,52 @@
+[
+    {
+        "userId" : 10,
+        "title" : "article title number 1",
+        "description" : "article description number 1"
+    },
+    {
+        "userId" : 5,
+        "title" : "article title number 2",
+        "description" :"article description number 2"
+    },
+    {
+        "userId" : 5,
+        "title" : "article title number 3",
+        "description" : "article description number 3"
+    },
+    {
+        "userId" : 5,
+        "title" : "article title number 4",
+        "description" :"article description number 4"
+    },
+    {
+        "userId" :5,
+        "title" :"article title number 5",
+        "description" :"article description number 5"
+    },
+    {
+        "userId" : 5,
+        "title" :"article title number 6",
+        "description" :"article description number 6"
+    },
+    {
+        "userId" : 25,
+        "title" :"article title number 7",
+        "description" : "article description number 7"
+    },
+    {
+        "userId" : 25,
+        "title" :"article title number 8",
+        "description" :"article description number 8"
+    },
+    {
+        "userId" : 15,
+        "title" :"article title number 9",
+        "description" :"article description number 9"
+    },
+    {
+        "userId" : 15,
+        "title" :"article title number 10",
+        "description" :"article description number 10"
+    }
+]

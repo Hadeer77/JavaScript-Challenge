@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+}
+.card {
+    background-color: #f6f6f6;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 300px;
+}
+.card h3{
+    margin: 0 0 10px;
+    color: #2196f3;
+}
+.card p{
+    color: #777;
+    font-size: 14px;
+}
+.card span{
+    display: block;
+    color: #999;
+    font-size: 12px;
+    margin-top: 10px;
+}

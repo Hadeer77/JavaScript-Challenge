@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "author" : "osama",
+        "category" : "HTML",
+        "title" : "HTML introduction",
+        "content" : "learn the basics of HTML and semantic tags"
+    },
+    {
+        "id" : 2,
+        "author" : "ahmed",
+        "category" : "CSS",
+        "title" : "Mastering flexbox",
+        "content" : "a comprehensive guide to css flexbox layouts."
+    },
+    {
+        "id" : 3,
+        "author" : "hadeer",
+        "category" : "javascript",
+        "title" : "understanding promises",
+        "content" : "an introduction to asynchronous javascript"
+    },
+    {
+        "id" : 4,
+        "author" : "sara",
+        "category" : "React",
+        "title" : "React components",
+        "content" : "how to create and use reusable components."
+    },
+    {
+        "id" : 5,
+        "author" : "mahmoud",
+        "category" : "Git",
+        "title" : "Git basics",
+        "content" : "learn how to use version control effectively."
+    }
+]
